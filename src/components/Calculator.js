@@ -1,4 +1,4 @@
-//Calculator.js
+// Calculator.js
 import Btn from './BtnKey';
 
 const Calculator = () => (

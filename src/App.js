@@ -1,4 +1,4 @@
-//App.js
+// App.js
 import './components/Calculator.css';
 import Calculator from './components/Calculator';
 
