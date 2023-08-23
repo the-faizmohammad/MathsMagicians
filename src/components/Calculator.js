@@ -1,5 +1,6 @@
 // Calculator.js
 import Btn from './BtnKey';
+import calculate from '../logic/calculate';
 
 const Calculator = () => (
   <div className="container">

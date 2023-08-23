@@ -1,4 +1,5 @@
 // BtnKey.js
+import calculate from "../logic/calculate";
 const Btn = () => (
   <div className="buttons">
     <button className="tiles btn" type="button">AC</button>
