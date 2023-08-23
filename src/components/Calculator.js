@@ -1,14 +1,12 @@
 // Calculator.js
 import Btn from './BtnKey';
 import calculate from '../logic/calculate';
-
-const Calculator = () => (
-  <div className="container">
-    <div className="input">
-      <input type="text" placeholder="0" id="display" required className="field" />
-    </div>
-    <Btn />
-  </div>
-);
+const Calculator = () => {
+  const [calculatorState, setCalculatorState] = useState({
+    total: null,
+    next: null,
+    operation: null,
+  });
+}
 
 export default Calculator;
