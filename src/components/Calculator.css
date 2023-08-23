@@ -1,0 +1,82 @@
+:root {
+  --input: #696565;
+  --tiles: #e3deded0;
+  --operations: #e8742b;
+  --padding: 20px 36px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  padding: 20%;
+}
+
+#app-root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.container {
+  border: 1px solid #4b4545;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input,
+.buttons,
+.field {
+  width: 100%;
+  height: 100%;
+}
+
+.btn,
+.field {
+  background: none;
+  outline: none;
+  border: none;
+  padding: var(--padding);
+}
+
+#display,
+#display::placeholder {
+  color: #fff;
+  text-align: right;
+  font-size: 18px;
+}
+
+#display {
+  background-color: var(--input);
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.buttons .btn:nth-last-child(3) {
+  grid-column: span 2;
+}
+
+.tiles {
+  background-color: var(--tiles);
+  border: 1px solid rgb(180, 173, 173);
+  font-size: 16px;
+}
+
+.operations {
+  background-color: var(--operations);
+}
+
+.tiles:hover {
+  transform: scaleX(1.02);
+}
