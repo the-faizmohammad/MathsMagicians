@@ -1,9 +1,9 @@
 // Calculator.js
 import React, { useState } from 'react';
-import './Calculator.css'; // Import the styling for the calculator
+import './Calculator.css';
 
 import Btn from './BtnKey';
-import calculate from '../logic/calculate'; // Provide the correct path
+import calculate from '../logic/calculate';
 
 const Calculator = () => {
   const [calculatorState, setCalculatorState] = useState({
