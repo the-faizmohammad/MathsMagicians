@@ -9,4 +9,9 @@ const Calculator = () => {
   });
 }
 
+const handleButtonClick = (buttonName) => {
+  const updatedState = calculate(calculatorState, buttonName);
+  setCalculatorState(updatedState);
+};
+
 export default Calculator;
