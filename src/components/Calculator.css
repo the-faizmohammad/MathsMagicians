@@ -4,3 +4,37 @@
     --operations: #e8742b;
     --padding: 20px 36px;
   }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh;
+    padding: 20%;
+  }
+  
+  #app-root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .container {
+    border: 1px solid #4b4545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .input,
+  .buttons,
+  .field {
+    width: 100%;
+    height: 100%;
+  }
