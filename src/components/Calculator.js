@@ -1,4 +1,3 @@
-// Calculator.js
 import React, { useState } from 'react';
 import './Calculator.css';
 
@@ -27,6 +26,7 @@ const Calculator = () => {
           required
           className="field"
           value={calculatorState.next || calculatorState.total || ''}
+          readOnly
         />
       </div>
       <Btn onClick={handleButtonClick} />
