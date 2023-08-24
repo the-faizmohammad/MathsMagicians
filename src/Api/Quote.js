@@ -8,15 +8,15 @@ const Quote = () => {
   useEffect(() => {
     fetch('https://api.api-ninjas.com/v1/quotes?category=maths', {
       headers: {
-        'X-Api-Key': 'B8Aei7hWtexMgroc3DcWRw==lt7kKkbwNfnSGwHo'
-      }
+        'X-Api-Key': 'B8Aei7hWtexMgroc3DcWRw==lt7kKkbwNfnSGwHo',
+      },
     })
-      .then(response => response.json())
-      .then(data => {
+      .then((response) => response.json())
+      .then((data) => {
         setQuote(data[0].quote);
         setLoading(false);
       })
-      .catch(error => {
+      .catch((error) => {
         setError('An error occurred while fetching the quote.');
         setLoading(false);
       });
