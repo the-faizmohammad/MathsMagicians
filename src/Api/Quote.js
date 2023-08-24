@@ -16,7 +16,7 @@ const Quote = () => {
         setQuote(data[0].quote);
         setLoading(false);
       })
-      .catch((error) => {
+      .catch(() => {
         setError('An error occurred while fetching the quote.');
         setLoading(false);
       });
