@@ -16,6 +16,15 @@ body {
   height: 100vh;
   padding: 20%;
 }
+.title {
+  font-size: 36px;
+  text-align: left;
+  margin-bottom: 20px;
+  color: #333;
+  position: absolute;
+  top: 100px;
+  left: 30px;
+}
 
 #app-root {
   display: flex;
