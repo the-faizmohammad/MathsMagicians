@@ -17,19 +17,22 @@ const Calculator = () => {
   };
 
   return (
-    <div className="container">
-      <div className="input">
-        <input
-          type="text"
-          placeholder="0"
-          id="display"
-          required
-          className="field"
-          value={calculatorState.next || calculatorState.total || ''}
-          readOnly
-        />
+    <div className="Wrapper-cal">
+      <h1 className="cal-title">Calculator is Powerful Machine. Use Wisely!</h1>
+      <div className="container">
+        <div className="input">
+          <input
+            type="text"
+            placeholder="0"
+            id="display"
+            required
+            className="field"
+            value={calculatorState.next || calculatorState.total || ''}
+            readOnly
+          />
+        </div>
+        <Btn onClick={handleButtonClick} />
       </div>
-      <Btn onClick={handleButtonClick} />
     </div>
   );
 };

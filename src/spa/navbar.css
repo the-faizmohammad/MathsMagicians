@@ -1,0 +1,38 @@
+/* navbar.css */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  color: yellow;
+  padding: 20px 20px;
+  font-size: 30px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin-right: 20px; /* Give some space from the right edge */
+}
+
+.menu-link-item a {
+  text-decoration: none;
+  color: yellow;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+}
+
+.menu-link-item a:hover {
+  color: #fca311;
+}

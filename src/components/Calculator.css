@@ -17,11 +17,25 @@ body {
   padding: 20%;
 }
 
+.cal-title {
+  font-size: 24px;
+  text-align: left;
+  margin-bottom: 20px;
+  color: yellow;
+}
+
 #app-root {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
+}
+
+.Wrapper-cal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 3em;
 }
 
 .container {

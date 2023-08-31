@@ -1,0 +1,43 @@
+/* home.css */
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+  background-color: black;
+}
+
+.home-title {
+  color: yellow;
+  font-size: 22px;
+}
+
+.number {
+  position: absolute;
+  font-size: 40px;
+  color: white;
+  transition: transform 1s ease-in-out;
+}
+
+.sky-blue {
+  color: rgb(204, 219, 33);
+  font-size: 50px;
+}
+
+.orange {
+  color: rgb(225, 231, 233);
+  font-size: 80px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  width: 100%;
+}
+
+.paragraph {
+  color: aliceblue;
+  font-size: 20px;
+}
