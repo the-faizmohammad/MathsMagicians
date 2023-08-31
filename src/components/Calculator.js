@@ -17,8 +17,8 @@ const Calculator = () => {
   };
 
   return (
-    <>
-      <h1 className="title">Calculator is Powerful Machine. Use Wisely!</h1>
+    <div className="Wrapper-cal">
+      <h1 className="cal-title">Calculator is Powerful Machine. Use Wisely!</h1>
       <div className="container">
         <div className="input">
           <input
@@ -33,7 +33,7 @@ const Calculator = () => {
         </div>
         <Btn onClick={handleButtonClick} />
       </div>
-    </>
+    </div>
   );
 };
 
