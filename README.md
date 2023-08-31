@@ -1,4 +1,6 @@
 # Math-Magicians
+### Get ready to fly with numbers, maths and Quotes
+"Math Magicians" is a math-focused SPA where users can perform calculations and discover random math quotes. Learn React by creating this interactive website for math enthusiasts.
 
 <a name="readme-top"></a>
 
