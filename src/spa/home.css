@@ -4,10 +4,9 @@ body {
   overflow: hidden;
   height: 100vh;
   background-color: black;
-  
 }
 
-.title{
+.title {
   color: aliceblue;
 }
 
@@ -27,7 +26,6 @@ body {
 }
 
 .paragraph {
-color: aliceblue;
-font-size: 20px;
+  color: aliceblue;
+  font-size: 20px;
 }
-
