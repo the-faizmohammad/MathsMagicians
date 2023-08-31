@@ -55,11 +55,14 @@ const Quote = () => {
   }
 
   return (
-    <div className="quote-display">
-      <p className="quote">{quoteData.quote}</p>
-      <p className="author">
-        <b>{quoteData.author}</b>
-      </p>
+    <div className="quote-container">
+      <h1 className="quote-title">Alert ! This Quotes is going to change the latest version of you.</h1>
+      <div className="quote-display">
+        <p className="quote">{quoteData.quote}</p>
+        <p className="author">
+          <b>{quoteData.author}</b>
+        </p>
+      </div>
     </div>
   );
 };

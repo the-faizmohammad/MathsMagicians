@@ -14,7 +14,7 @@ class Home extends React.Component {
   getRandomNumber = (min, max) => Math.random() * (max - min) + min;
 
   animateNumber = (element) => {
-    const targetY = window.innerHeight - 250;
+    const targetY = window.innerHeight - 350;
     const modifiedElement = element;
 
     modifiedElement.addEventListener('mouseover', () => {

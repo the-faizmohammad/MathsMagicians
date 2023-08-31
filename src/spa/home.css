@@ -7,7 +7,8 @@ body {
 }
 
 .home-title {
-  color: aliceblue;
+  color: yellow;
+  font-size: 22px;
 }
 
 .number {
@@ -18,14 +19,16 @@ body {
 }
 
 .sky-blue {
-  color: rgb(6, 174, 240);
+  color: rgb(204, 219, 33);
+  font-size: 50px;
 }
 
 .orange {
-  color: rgb(254, 167, 7);
+  color: rgb(225, 231, 233);
+  font-size: 80px;
 }
 
-.home-container{
+.home-container {
   display: flex;
   flex-direction: column;
   position: absolute;
