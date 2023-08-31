@@ -1,29 +1,33 @@
 /* home.css */
-
-.home-container {
-  width: 100%;
-  margin: 0 auto;
-  font-family: Arial, sans-serif;
-  background-color: #fff;
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100vh;
+  background-color: black;
+  
 }
 
-.title {
-  font-size: 36px;
-  text-align: left;
-  margin-bottom: 20px;
-  color: #333;
+.title{
+  color: aliceblue;
+}
+
+.number {
+  position: absolute;
+  font-size: 40px;
+  color: white;
+  transition: transform 1s ease-in-out;
+}
+
+.sky-blue {
+  color: rgb(6, 174, 240);
+}
+
+.orange {
+  color: rgb(254, 167, 7);
 }
 
 .paragraph {
-  font-size: 24px;
-  margin-bottom: 10px;
-  color: #0f0e0e;
-  transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1),
-              color 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-.paragraph:hover {
-  transform: scale(1.03);
-  color: #ff9900;
-  cursor: pointer;
+color: aliceblue;
+font-size: 20px;
 }
 
