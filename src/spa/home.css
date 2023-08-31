@@ -6,7 +6,7 @@ body {
   background-color: black;
 }
 
-.title {
+.home-title {
   color: aliceblue;
 }
 
@@ -23,6 +23,15 @@ body {
 
 .orange {
   color: rgb(254, 167, 7);
+}
+
+.home-container{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  width: 100%;
 }
 
 .paragraph {

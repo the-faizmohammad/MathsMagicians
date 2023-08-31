@@ -14,7 +14,7 @@ class Home extends React.Component {
   getRandomNumber = (min, max) => Math.random() * (max - min) + min;
 
   animateNumber = (element) => {
-    const targetY = window.innerHeight - 50;
+    const targetY = window.innerHeight - 250;
     const modifiedElement = element;
 
     modifiedElement.addEventListener('mouseover', () => {
@@ -61,7 +61,7 @@ class Home extends React.Component {
     return (
       <div className="home-container" ref={this.containerRef}>
         <div className="home-content">
-          <h1 className="title">The History of Calculators</h1>
+          <h1 className="home-title">The History of Calculators</h1>
           <p className="paragraph">
             The abacus, with movable beads on rods, marks the earliest known calculator,
             used across ancient civilizations for basic arithmetic and calculations.
