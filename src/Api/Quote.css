@@ -1,8 +1,8 @@
 /* Quote.css */
 .quote-container {
   display: flex;
-  flex-direction: column; 
-  gap: 3em; 
+  flex-direction: column;
+  gap: 3em;
 }
 
 .quote-title {
