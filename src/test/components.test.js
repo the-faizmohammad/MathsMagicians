@@ -1,8 +1,8 @@
-/*import '@testing-library/jest-dom';
+import '@testing-library/jest-dom';
 import React from 'react';
 import { render } from "@testing-library/react";
-import Home from "../components/home-page";
-import Quote from "../components/GetQuote";
+import Home from "../spa/home";
+import Quote from "../Api/Quote";
 import Calculator from "../components/Calculator";
 
 describe('Tests for Navigation components', () => {
@@ -20,5 +20,5 @@ describe('Tests for Navigation components', () => {
     const check = render(<Quote />);
     expect(check).toMatchSnapshot();
   });
-});*/
+});
 

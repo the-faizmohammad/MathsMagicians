@@ -1,0 +1,1770 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for Navigation components Case 1: Home page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="home-container"
+      >
+        <div
+          class="home-content"
+        >
+          <h1
+            class="home-title"
+          >
+            The History of Calculators
+          </h1>
+          <p
+            class="paragraph"
+          >
+            The abacus, with movable beads on rods, marks the earliest known calculator, used across ancient civilizations for basic arithmetic and calculations.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Blaise Pascal invents the Pascaline, a mechanical calculator that uses gears and wheels to perform addition and subtraction with reliability.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Gottfried Wilhelm Leibniz designs the stepped drum calculator, advancing mechanical computation with capabilities for multiplication and division.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Charles Babbage conceives the Analytical Engine, a mechanical marvel with memory serving as a precursor to modern computers.
+          </p>
+          <p
+            class="paragraph"
+          >
+            The Curta Calculator, a handheld mechanical wonder by Curt Herzstark, simplifies complex arithmetic and earns popularity for its portability.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Electronic calculators emerge, utilizing transistors and integrated circuits to enable and more precise arithmetic calculations.
+          </p>
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 797.9068029097627px; top: 418.87287387671137px;"
+        >
+          1
+        </div>
+        <div
+          class="number orange"
+          style="left: 359.6895853245319px; top: 167.08278379069904px;"
+        >
+          2
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 756.1219227565273px; top: 243.8589964664186px;"
+        >
+          3
+        </div>
+        <div
+          class="number orange"
+          style="left: 541.2590868492641px; top: 731.1983134788695px;"
+        >
+          4
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 643.5656551750656px; top: 390.0786485326133px;"
+        >
+          5
+        </div>
+        <div
+          class="number orange"
+          style="left: 584.7589960867281px; top: 454.70056020525703px;"
+        >
+          6
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 125.73536190868663px; top: 79.02243831110454px;"
+        >
+          7
+        </div>
+        <div
+          class="number orange"
+          style="left: 484.76079348955477px; top: 145.45092380344886px;"
+        >
+          8
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 391.45291069108976px; top: 490.51645748782227px;"
+        >
+          9
+        </div>
+        <div
+          class="number orange"
+          style="left: 23.693696022134645px; top: 526.4989493527878px;"
+        >
+          10
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 125.98897223141034px; top: 552.9768794629991px;"
+        >
+          11
+        </div>
+        <div
+          class="number orange"
+          style="left: 641.2814953294167px; top: 248.46249878066305px;"
+        >
+          12
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 57.81675847734073px; top: 640.0830713278934px;"
+        >
+          13
+        </div>
+        <div
+          class="number orange"
+          style="left: 499.1554790358523px; top: 263.9845020688194px;"
+        >
+          14
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 804.2021367837015px; top: 180.72612835559093px;"
+        >
+          15
+        </div>
+        <div
+          class="number orange"
+          style="left: 657.4351034817159px; top: 441.08046419344817px;"
+        >
+          16
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 985.652314103738px; top: 111.01637907606008px;"
+        >
+          17
+        </div>
+        <div
+          class="number orange"
+          style="left: 809.9067562548212px; top: 703.6479770203915px;"
+        >
+          18
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 242.5163593215807px; top: 514.7436609755812px;"
+        >
+          19
+        </div>
+        <div
+          class="number orange"
+          style="left: 487.27330510720594px; top: 150.79247698086883px;"
+        >
+          20
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 568.4063566127832px; top: 69.4121038593804px;"
+        >
+          21
+        </div>
+        <div
+          class="number orange"
+          style="left: 402.0113375800661px; top: 171.61187434686966px;"
+        >
+          22
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 781.3854483592881px; top: 363.17840256667876px;"
+        >
+          23
+        </div>
+        <div
+          class="number orange"
+          style="left: 395.9992478497859px; top: 348.3000476013997px;"
+        >
+          24
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 553.951611056254px; top: 502.0416735879945px;"
+        >
+          25
+        </div>
+        <div
+          class="number orange"
+          style="left: 35.44777337815253px; top: 575.2558620834272px;"
+        >
+          26
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 914.8766069250439px; top: 157.17317571938244px;"
+        >
+          27
+        </div>
+        <div
+          class="number orange"
+          style="left: 817.3175059989537px; top: 202.6006938133568px;"
+        >
+          28
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 152.3042992522967px; top: 495.6663670179186px;"
+        >
+          29
+        </div>
+        <div
+          class="number orange"
+          style="left: 746.7778571764322px; top: 494.79023478834256px;"
+        >
+          30
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 354.727572369339px; top: 535.7030937324602px;"
+        >
+          31
+        </div>
+        <div
+          class="number orange"
+          style="left: 126.6851685968843px; top: 637.5221274544899px;"
+        >
+          32
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 963.464136044061px; top: 343.032285049844px;"
+        >
+          33
+        </div>
+        <div
+          class="number orange"
+          style="left: 502.0768903649339px; top: 367.7811988878099px;"
+        >
+          34
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 395.5823249117627px; top: 422.88978874574167px;"
+        >
+          35
+        </div>
+        <div
+          class="number orange"
+          style="left: 382.179771561694px; top: 136.10545452857778px;"
+        >
+          36
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 122.8492907591351px; top: 523.1459075582595px;"
+        >
+          37
+        </div>
+        <div
+          class="number orange"
+          style="left: 408.2828115870659px; top: 274.45331043373994px;"
+        >
+          38
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 31.7870139081856px; top: 71.45199161525417px;"
+        >
+          39
+        </div>
+        <div
+          class="number orange"
+          style="left: 85.48096863903925px; top: 536.8375727023667px;"
+        >
+          40
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 66.19539763590114px; top: 438.78422720835px;"
+        >
+          41
+        </div>
+        <div
+          class="number orange"
+          style="left: 778.8641668491939px; top: 175.60073593407947px;"
+        >
+          42
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 748.9825782917851px; top: 153.61760949966413px;"
+        >
+          43
+        </div>
+        <div
+          class="number orange"
+          style="left: 791.9703787141941px; top: 628.0810231442016px;"
+        >
+          44
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 420.4948071346039px; top: 353.8439442026274px;"
+        >
+          45
+        </div>
+        <div
+          class="number orange"
+          style="left: 352.78384530531685px; top: 543.6858655572579px;"
+        >
+          46
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 509.78071528971736px; top: 189.9203074411383px;"
+        >
+          47
+        </div>
+        <div
+          class="number orange"
+          style="left: 390.5442085433192px; top: 669.3626072818072px;"
+        >
+          48
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 90.90742467105724px; top: 304.27600971364px;"
+        >
+          49
+        </div>
+        <div
+          class="number orange"
+          style="left: 776.3302867889192px; top: 424.06268288352743px;"
+        >
+          50
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 748.6844428384445px; top: 305.0296760732375px;"
+        >
+          51
+        </div>
+        <div
+          class="number orange"
+          style="left: 942.6621332165237px; top: 683.3202969215325px;"
+        >
+          52
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 590.3096416593953px; top: 363.04726850331355px;"
+        >
+          53
+        </div>
+        <div
+          class="number orange"
+          style="left: 499.17158204754105px; top: 204.41165374331314px;"
+        >
+          54
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 509.5630186035801px; top: 635.7005954034735px;"
+        >
+          55
+        </div>
+        <div
+          class="number orange"
+          style="left: 838.3241524816829px; top: 676.0493367977447px;"
+        >
+          56
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 316.5244695488964px; top: 202.25386270716584px;"
+        >
+          57
+        </div>
+        <div
+          class="number orange"
+          style="left: 10.715388717166661px; top: 629.6023000280001px;"
+        >
+          58
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 302.33185603613447px; top: 308.645078777556px;"
+        >
+          59
+        </div>
+        <div
+          class="number orange"
+          style="left: 27.128928917839403px; top: 409.4223630136503px;"
+        >
+          60
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 833.9009240151238px; top: 299.9995325849429px;"
+        >
+          61
+        </div>
+        <div
+          class="number orange"
+          style="left: 829.573395126454px; top: 381.6169281269484px;"
+        >
+          62
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 472.75387790701325px; top: 68.78368597398592px;"
+        >
+          63
+        </div>
+        <div
+          class="number orange"
+          style="left: 992.8885265644881px; top: 492.46277983959044px;"
+        >
+          64
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 524.2756184354905px; top: 195.4822328692352px;"
+        >
+          65
+        </div>
+        <div
+          class="number orange"
+          style="left: 401.8111417466846px; top: 337.11185684244003px;"
+        >
+          66
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 641.2201735415292px; top: 462.21428569909784px;"
+        >
+          67
+        </div>
+        <div
+          class="number orange"
+          style="left: 160.40577120044327px; top: 619.6392539205588px;"
+        >
+          68
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 861.5794875606189px; top: 397.23475583253776px;"
+        >
+          69
+        </div>
+        <div
+          class="number orange"
+          style="left: 796.0655001503633px; top: 466.7137236511539px;"
+        >
+          70
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 559.2168968503838px; top: 594.5066650468925px;"
+        >
+          71
+        </div>
+        <div
+          class="number orange"
+          style="left: 579.5456350369946px; top: 108.48544087563388px;"
+        >
+          72
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 53.34137202370039px; top: 87.04098676524839px;"
+        >
+          73
+        </div>
+        <div
+          class="number orange"
+          style="left: 816.897560918954px; top: 358.5937374729701px;"
+        >
+          74
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 377.786487161688px; top: 289.9687466337024px;"
+        >
+          75
+        </div>
+        <div
+          class="number orange"
+          style="left: 288.5908573820882px; top: 363.72394606862065px;"
+        >
+          76
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 264.469053746923px; top: 134.95635221568884px;"
+        >
+          77
+        </div>
+        <div
+          class="number orange"
+          style="left: 59.03264539822908px; top: 302.8137576653327px;"
+        >
+          78
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 407.7679498661271px; top: 550.3721024004781px;"
+        >
+          79
+        </div>
+        <div
+          class="number orange"
+          style="left: 162.16478784366677px; top: 678.5001354894515px;"
+        >
+          80
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 385.7711959689316px; top: 707.3253212716755px;"
+        >
+          81
+        </div>
+        <div
+          class="number orange"
+          style="left: 241.8698322681289px; top: 163.61928213982537px;"
+        >
+          82
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 698.6811217115126px; top: 271.35684095217886px;"
+        >
+          83
+        </div>
+        <div
+          class="number orange"
+          style="left: 570.7910714674069px; top: 661.3529559897918px;"
+        >
+          84
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 60.84135672730554px; top: 596.9042913931548px;"
+        >
+          85
+        </div>
+        <div
+          class="number orange"
+          style="left: 663.1036870088949px; top: 451.7440947006634px;"
+        >
+          86
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 931.1470770148419px; top: 539.1890411551041px;"
+        >
+          87
+        </div>
+        <div
+          class="number orange"
+          style="left: 277.95142627225323px; top: 112.3683911340982px;"
+        >
+          88
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 397.9879437109644px; top: 204.73861169262187px;"
+        >
+          89
+        </div>
+        <div
+          class="number orange"
+          style="left: 43.97501652232131px; top: 589.9927787945443px;"
+        >
+          90
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 242.15185427568485px; top: 633.1626363995537px;"
+        >
+          91
+        </div>
+        <div
+          class="number orange"
+          style="left: 337.44649687531046px; top: 254.57823919049423px;"
+        >
+          92
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 399.27166426830286px; top: 46.488017907736214px;"
+        >
+          93
+        </div>
+        <div
+          class="number orange"
+          style="left: 607.1359813914055px; top: 510.2200263264328px;"
+        >
+          94
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 23.30715913731956px; top: 724.3248104921628px;"
+        >
+          95
+        </div>
+        <div
+          class="number orange"
+          style="left: 45.16066007446966px; top: 58.43046559135897px;"
+        >
+          96
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 574.111756752663px; top: 485.0033502281591px;"
+        >
+          97
+        </div>
+        <div
+          class="number orange"
+          style="left: 352.5443666053052px; top: 376.3409861211399px;"
+        >
+          98
+        </div>
+        <div
+          class="number sky-blue"
+          style="left: 347.95904027081974px; top: 433.05764780795255px;"
+        >
+          99
+        </div>
+        <div
+          class="number orange"
+          style="left: 286.31427073498867px; top: 578.8770381331237px;"
+        >
+          100
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="home-container"
+    >
+      <div
+        class="home-content"
+      >
+        <h1
+          class="home-title"
+        >
+          The History of Calculators
+        </h1>
+        <p
+          class="paragraph"
+        >
+          The abacus, with movable beads on rods, marks the earliest known calculator, used across ancient civilizations for basic arithmetic and calculations.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Blaise Pascal invents the Pascaline, a mechanical calculator that uses gears and wheels to perform addition and subtraction with reliability.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Gottfried Wilhelm Leibniz designs the stepped drum calculator, advancing mechanical computation with capabilities for multiplication and division.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Charles Babbage conceives the Analytical Engine, a mechanical marvel with memory serving as a precursor to modern computers.
+        </p>
+        <p
+          class="paragraph"
+        >
+          The Curta Calculator, a handheld mechanical wonder by Curt Herzstark, simplifies complex arithmetic and earns popularity for its portability.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Electronic calculators emerge, utilizing transistors and integrated circuits to enable and more precise arithmetic calculations.
+        </p>
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 797.9068029097627px; top: 418.87287387671137px;"
+      >
+        1
+      </div>
+      <div
+        class="number orange"
+        style="left: 359.6895853245319px; top: 167.08278379069904px;"
+      >
+        2
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 756.1219227565273px; top: 243.8589964664186px;"
+      >
+        3
+      </div>
+      <div
+        class="number orange"
+        style="left: 541.2590868492641px; top: 731.1983134788695px;"
+      >
+        4
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 643.5656551750656px; top: 390.0786485326133px;"
+      >
+        5
+      </div>
+      <div
+        class="number orange"
+        style="left: 584.7589960867281px; top: 454.70056020525703px;"
+      >
+        6
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 125.73536190868663px; top: 79.02243831110454px;"
+      >
+        7
+      </div>
+      <div
+        class="number orange"
+        style="left: 484.76079348955477px; top: 145.45092380344886px;"
+      >
+        8
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 391.45291069108976px; top: 490.51645748782227px;"
+      >
+        9
+      </div>
+      <div
+        class="number orange"
+        style="left: 23.693696022134645px; top: 526.4989493527878px;"
+      >
+        10
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 125.98897223141034px; top: 552.9768794629991px;"
+      >
+        11
+      </div>
+      <div
+        class="number orange"
+        style="left: 641.2814953294167px; top: 248.46249878066305px;"
+      >
+        12
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 57.81675847734073px; top: 640.0830713278934px;"
+      >
+        13
+      </div>
+      <div
+        class="number orange"
+        style="left: 499.1554790358523px; top: 263.9845020688194px;"
+      >
+        14
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 804.2021367837015px; top: 180.72612835559093px;"
+      >
+        15
+      </div>
+      <div
+        class="number orange"
+        style="left: 657.4351034817159px; top: 441.08046419344817px;"
+      >
+        16
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 985.652314103738px; top: 111.01637907606008px;"
+      >
+        17
+      </div>
+      <div
+        class="number orange"
+        style="left: 809.9067562548212px; top: 703.6479770203915px;"
+      >
+        18
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 242.5163593215807px; top: 514.7436609755812px;"
+      >
+        19
+      </div>
+      <div
+        class="number orange"
+        style="left: 487.27330510720594px; top: 150.79247698086883px;"
+      >
+        20
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 568.4063566127832px; top: 69.4121038593804px;"
+      >
+        21
+      </div>
+      <div
+        class="number orange"
+        style="left: 402.0113375800661px; top: 171.61187434686966px;"
+      >
+        22
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 781.3854483592881px; top: 363.17840256667876px;"
+      >
+        23
+      </div>
+      <div
+        class="number orange"
+        style="left: 395.9992478497859px; top: 348.3000476013997px;"
+      >
+        24
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 553.951611056254px; top: 502.0416735879945px;"
+      >
+        25
+      </div>
+      <div
+        class="number orange"
+        style="left: 35.44777337815253px; top: 575.2558620834272px;"
+      >
+        26
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 914.8766069250439px; top: 157.17317571938244px;"
+      >
+        27
+      </div>
+      <div
+        class="number orange"
+        style="left: 817.3175059989537px; top: 202.6006938133568px;"
+      >
+        28
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 152.3042992522967px; top: 495.6663670179186px;"
+      >
+        29
+      </div>
+      <div
+        class="number orange"
+        style="left: 746.7778571764322px; top: 494.79023478834256px;"
+      >
+        30
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 354.727572369339px; top: 535.7030937324602px;"
+      >
+        31
+      </div>
+      <div
+        class="number orange"
+        style="left: 126.6851685968843px; top: 637.5221274544899px;"
+      >
+        32
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 963.464136044061px; top: 343.032285049844px;"
+      >
+        33
+      </div>
+      <div
+        class="number orange"
+        style="left: 502.0768903649339px; top: 367.7811988878099px;"
+      >
+        34
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 395.5823249117627px; top: 422.88978874574167px;"
+      >
+        35
+      </div>
+      <div
+        class="number orange"
+        style="left: 382.179771561694px; top: 136.10545452857778px;"
+      >
+        36
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 122.8492907591351px; top: 523.1459075582595px;"
+      >
+        37
+      </div>
+      <div
+        class="number orange"
+        style="left: 408.2828115870659px; top: 274.45331043373994px;"
+      >
+        38
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 31.7870139081856px; top: 71.45199161525417px;"
+      >
+        39
+      </div>
+      <div
+        class="number orange"
+        style="left: 85.48096863903925px; top: 536.8375727023667px;"
+      >
+        40
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 66.19539763590114px; top: 438.78422720835px;"
+      >
+        41
+      </div>
+      <div
+        class="number orange"
+        style="left: 778.8641668491939px; top: 175.60073593407947px;"
+      >
+        42
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 748.9825782917851px; top: 153.61760949966413px;"
+      >
+        43
+      </div>
+      <div
+        class="number orange"
+        style="left: 791.9703787141941px; top: 628.0810231442016px;"
+      >
+        44
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 420.4948071346039px; top: 353.8439442026274px;"
+      >
+        45
+      </div>
+      <div
+        class="number orange"
+        style="left: 352.78384530531685px; top: 543.6858655572579px;"
+      >
+        46
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 509.78071528971736px; top: 189.9203074411383px;"
+      >
+        47
+      </div>
+      <div
+        class="number orange"
+        style="left: 390.5442085433192px; top: 669.3626072818072px;"
+      >
+        48
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 90.90742467105724px; top: 304.27600971364px;"
+      >
+        49
+      </div>
+      <div
+        class="number orange"
+        style="left: 776.3302867889192px; top: 424.06268288352743px;"
+      >
+        50
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 748.6844428384445px; top: 305.0296760732375px;"
+      >
+        51
+      </div>
+      <div
+        class="number orange"
+        style="left: 942.6621332165237px; top: 683.3202969215325px;"
+      >
+        52
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 590.3096416593953px; top: 363.04726850331355px;"
+      >
+        53
+      </div>
+      <div
+        class="number orange"
+        style="left: 499.17158204754105px; top: 204.41165374331314px;"
+      >
+        54
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 509.5630186035801px; top: 635.7005954034735px;"
+      >
+        55
+      </div>
+      <div
+        class="number orange"
+        style="left: 838.3241524816829px; top: 676.0493367977447px;"
+      >
+        56
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 316.5244695488964px; top: 202.25386270716584px;"
+      >
+        57
+      </div>
+      <div
+        class="number orange"
+        style="left: 10.715388717166661px; top: 629.6023000280001px;"
+      >
+        58
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 302.33185603613447px; top: 308.645078777556px;"
+      >
+        59
+      </div>
+      <div
+        class="number orange"
+        style="left: 27.128928917839403px; top: 409.4223630136503px;"
+      >
+        60
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 833.9009240151238px; top: 299.9995325849429px;"
+      >
+        61
+      </div>
+      <div
+        class="number orange"
+        style="left: 829.573395126454px; top: 381.6169281269484px;"
+      >
+        62
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 472.75387790701325px; top: 68.78368597398592px;"
+      >
+        63
+      </div>
+      <div
+        class="number orange"
+        style="left: 992.8885265644881px; top: 492.46277983959044px;"
+      >
+        64
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 524.2756184354905px; top: 195.4822328692352px;"
+      >
+        65
+      </div>
+      <div
+        class="number orange"
+        style="left: 401.8111417466846px; top: 337.11185684244003px;"
+      >
+        66
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 641.2201735415292px; top: 462.21428569909784px;"
+      >
+        67
+      </div>
+      <div
+        class="number orange"
+        style="left: 160.40577120044327px; top: 619.6392539205588px;"
+      >
+        68
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 861.5794875606189px; top: 397.23475583253776px;"
+      >
+        69
+      </div>
+      <div
+        class="number orange"
+        style="left: 796.0655001503633px; top: 466.7137236511539px;"
+      >
+        70
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 559.2168968503838px; top: 594.5066650468925px;"
+      >
+        71
+      </div>
+      <div
+        class="number orange"
+        style="left: 579.5456350369946px; top: 108.48544087563388px;"
+      >
+        72
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 53.34137202370039px; top: 87.04098676524839px;"
+      >
+        73
+      </div>
+      <div
+        class="number orange"
+        style="left: 816.897560918954px; top: 358.5937374729701px;"
+      >
+        74
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 377.786487161688px; top: 289.9687466337024px;"
+      >
+        75
+      </div>
+      <div
+        class="number orange"
+        style="left: 288.5908573820882px; top: 363.72394606862065px;"
+      >
+        76
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 264.469053746923px; top: 134.95635221568884px;"
+      >
+        77
+      </div>
+      <div
+        class="number orange"
+        style="left: 59.03264539822908px; top: 302.8137576653327px;"
+      >
+        78
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 407.7679498661271px; top: 550.3721024004781px;"
+      >
+        79
+      </div>
+      <div
+        class="number orange"
+        style="left: 162.16478784366677px; top: 678.5001354894515px;"
+      >
+        80
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 385.7711959689316px; top: 707.3253212716755px;"
+      >
+        81
+      </div>
+      <div
+        class="number orange"
+        style="left: 241.8698322681289px; top: 163.61928213982537px;"
+      >
+        82
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 698.6811217115126px; top: 271.35684095217886px;"
+      >
+        83
+      </div>
+      <div
+        class="number orange"
+        style="left: 570.7910714674069px; top: 661.3529559897918px;"
+      >
+        84
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 60.84135672730554px; top: 596.9042913931548px;"
+      >
+        85
+      </div>
+      <div
+        class="number orange"
+        style="left: 663.1036870088949px; top: 451.7440947006634px;"
+      >
+        86
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 931.1470770148419px; top: 539.1890411551041px;"
+      >
+        87
+      </div>
+      <div
+        class="number orange"
+        style="left: 277.95142627225323px; top: 112.3683911340982px;"
+      >
+        88
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 397.9879437109644px; top: 204.73861169262187px;"
+      >
+        89
+      </div>
+      <div
+        class="number orange"
+        style="left: 43.97501652232131px; top: 589.9927787945443px;"
+      >
+        90
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 242.15185427568485px; top: 633.1626363995537px;"
+      >
+        91
+      </div>
+      <div
+        class="number orange"
+        style="left: 337.44649687531046px; top: 254.57823919049423px;"
+      >
+        92
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 399.27166426830286px; top: 46.488017907736214px;"
+      >
+        93
+      </div>
+      <div
+        class="number orange"
+        style="left: 607.1359813914055px; top: 510.2200263264328px;"
+      >
+        94
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 23.30715913731956px; top: 724.3248104921628px;"
+      >
+        95
+      </div>
+      <div
+        class="number orange"
+        style="left: 45.16066007446966px; top: 58.43046559135897px;"
+      >
+        96
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 574.111756752663px; top: 485.0033502281591px;"
+      >
+        97
+      </div>
+      <div
+        class="number orange"
+        style="left: 352.5443666053052px; top: 376.3409861211399px;"
+      >
+        98
+      </div>
+      <div
+        class="number sky-blue"
+        style="left: 347.95904027081974px; top: 433.05764780795255px;"
+      >
+        99
+      </div>
+      <div
+        class="number orange"
+        style="left: 286.31427073498867px; top: 578.8770381331237px;"
+      >
+        100
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Tests for Navigation components Case 2: Calculator page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Wrapper-cal"
+      >
+        <h1
+          class="cal-title"
+        >
+          Calculator is Powerful Machine. Use Wisely!
+        </h1>
+        <div
+          class="container"
+        >
+          <div
+            class="input"
+          >
+            <input
+              class="field"
+              id="display"
+              placeholder="0"
+              readonly=""
+              required=""
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            class="buttons"
+          >
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              %
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              ÷
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              x
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              .
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              =
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Wrapper-cal"
+    >
+      <h1
+        class="cal-title"
+      >
+        Calculator is Powerful Machine. Use Wisely!
+      </h1>
+      <div
+        class="container"
+      >
+        <div
+          class="input"
+        >
+          <input
+            class="field"
+            id="display"
+            placeholder="0"
+            readonly=""
+            required=""
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="buttons"
+        >
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            %
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            .
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Tests for Navigation components Case 3: Quote page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        Loading quote
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      Loading quote
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
