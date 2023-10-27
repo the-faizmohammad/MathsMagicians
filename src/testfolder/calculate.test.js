@@ -49,17 +49,4 @@ describe('Tests for calculate component', () => {
     data = calculate(data, '=');
     expect(data.total).toBe('5');
   });
-
-  /* test('Case 5: AC', () => {
-    let data = {
-        total: null,
-        next: null,
-        operation: null,
-    }
-    data = calculate(data, '10');
-    data = calculate(data, '÷');
-    data = calculate(data, '2');
-    data = calculate(data, 'AC');
-    expect(data.total).toBe(0);
-  }); */
 });

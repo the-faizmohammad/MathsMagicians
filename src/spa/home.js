@@ -7,7 +7,7 @@ class Home extends React.Component {
     this.containerRef = React.createRef();
   }
 
-  componentDidMount() {
+  /* componentDidMount() {
     this.setupVisualEffects();
   }
 
@@ -55,7 +55,7 @@ class Home extends React.Component {
       this.animateNumber(numberElement);
       this.containerRef.current.appendChild(numberElement);
     });
-  };
+  }; */
 
   render() {
     return (

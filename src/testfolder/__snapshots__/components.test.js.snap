@@ -1,0 +1,570 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for Navigation components Case 1: Home page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="home-container"
+      >
+        <div
+          class="home-content"
+        >
+          <h1
+            class="home-title"
+          >
+            The History of Calculators
+          </h1>
+          <p
+            class="paragraph"
+          >
+            The abacus, with movable beads on rods, marks the earliest known calculator, used across ancient civilizations for basic arithmetic and calculations.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Blaise Pascal invents the Pascaline, a mechanical calculator that uses gears and wheels to perform addition and subtraction with reliability.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Gottfried Wilhelm Leibniz designs the stepped drum calculator, advancing mechanical computation with capabilities for multiplication and division.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Charles Babbage conceives the Analytical Engine, a mechanical marvel with memory serving as a precursor to modern computers.
+          </p>
+          <p
+            class="paragraph"
+          >
+            The Curta Calculator, a handheld mechanical wonder by Curt Herzstark, simplifies complex arithmetic and earns popularity for its portability.
+          </p>
+          <p
+            class="paragraph"
+          >
+            Electronic calculators emerge, utilizing transistors and integrated circuits to enable and more precise arithmetic calculations.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="home-container"
+    >
+      <div
+        class="home-content"
+      >
+        <h1
+          class="home-title"
+        >
+          The History of Calculators
+        </h1>
+        <p
+          class="paragraph"
+        >
+          The abacus, with movable beads on rods, marks the earliest known calculator, used across ancient civilizations for basic arithmetic and calculations.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Blaise Pascal invents the Pascaline, a mechanical calculator that uses gears and wheels to perform addition and subtraction with reliability.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Gottfried Wilhelm Leibniz designs the stepped drum calculator, advancing mechanical computation with capabilities for multiplication and division.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Charles Babbage conceives the Analytical Engine, a mechanical marvel with memory serving as a precursor to modern computers.
+        </p>
+        <p
+          class="paragraph"
+        >
+          The Curta Calculator, a handheld mechanical wonder by Curt Herzstark, simplifies complex arithmetic and earns popularity for its portability.
+        </p>
+        <p
+          class="paragraph"
+        >
+          Electronic calculators emerge, utilizing transistors and integrated circuits to enable and more precise arithmetic calculations.
+        </p>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Tests for Navigation components Case 2: Calculator page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Wrapper-cal"
+      >
+        <h1
+          class="cal-title"
+        >
+          Calculator is Powerful Machine. Use Wisely!
+        </h1>
+        <div
+          class="container"
+        >
+          <div
+            class="input"
+          >
+            <input
+              class="field"
+              id="display"
+              placeholder="0"
+              readonly=""
+              required=""
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            class="buttons"
+          >
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              %
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              ÷
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              x
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="tiles btn"
+              type="button"
+            >
+              .
+            </button>
+            <button
+              class="tiles operations btn"
+              type="button"
+            >
+              =
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Wrapper-cal"
+    >
+      <h1
+        class="cal-title"
+      >
+        Calculator is Powerful Machine. Use Wisely!
+      </h1>
+      <div
+        class="container"
+      >
+        <div
+          class="input"
+        >
+          <input
+            class="field"
+            id="display"
+            placeholder="0"
+            readonly=""
+            required=""
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="buttons"
+        >
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            %
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="tiles btn"
+            type="button"
+          >
+            .
+          </button>
+          <button
+            class="tiles operations btn"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Tests for Navigation components Case 3: Quote page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        Loading quote
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      Loading quote
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
